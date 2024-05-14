@@ -1,0 +1,14 @@
+Written by: Brady Bannick, banni041
+
+The best way to compile and run my code would be to use an IDE such as intellij,
+but you can also just download my MyGrid class and compile it by
+typing on your keyboard, "javac MyGrid.java" and running by typing "java MyGrid"
+You will also need the other classes like cell, and stackGen if you don't have them
+
+Assumptions:
+You must have something that can run a java program
+
+I certify that the information contained in this README
+file is complete and accurate. I have both read and followed the course policies
+in the ’Academic Integrity - Course Policy’ section of the course syllabus.
+Brady Bannick
