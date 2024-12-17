@@ -191,7 +191,7 @@ public class MyGrid {
     }
 
     /**
-     * Solves the maze using the algorithm from the writeup.
+     * Solves the maze using the algorithm from the writeup
      */
     public void solveGrid() {
         Q1Gen<int[]> queue = new Q1Gen<>();
